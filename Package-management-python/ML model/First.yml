@@ -1,0 +1,35 @@
+# Hey this is a YAML
+my-course: "AWS DevOps Certification"
+version: 1.0
+price: 299
+is_public: true
+release_date: 2022-01-19
+pre_enroll: null
+category:
+ - AWS
+ - DevOps
+ - AWS Certification
+
+course_dev: ['Murthy', "Kavya", "nirmay"]
+dev_details: 
+ - name: "Murthy"
+   email: "support@maifold"
+   role: "author"
+ - name: "Kavya"
+   email: "support@maifold"
+   role: "Co-author"
+ - name: "nirmay"
+   email: "support@maifold"
+   role: "Co-author"
+ - {name: "navishka", email: "support@manifol", role: "Finance"}
+
+short_description: >
+ This is a course for 
+ AWS Devops Professional
+ Certification
+
+detailed_description: |
+ This course has been 
+ Created with collaboration
+ WIth industry experts.
+ We hope you like it.
